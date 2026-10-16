@@ -1,16 +1,16 @@
 {
-  "name": "خطة باريس",
-  "short_name": "باريس",
+  "name": "KH Travels",
+  "short_name": "KH Travels",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./paris-plan.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#16233A",
-  "theme_color": "#16233A",
+  "background_color": "#124A52",
+  "theme_color": "#124A52",
   "icons": [
     {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
     {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {"src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
   ]
 }
